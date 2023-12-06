@@ -16,7 +16,7 @@
 
 <div align="center"><img src="https://github.com/snikitin-de/DiffusionWinFormsApp/assets/25394427/0b3d74f1-d5f4-4e8c-84a5-6689dfc48302"></div>
 
-### Пример работы программы
+### Работа программы
 
 Пример работы программы:
 
